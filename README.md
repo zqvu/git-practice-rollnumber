@@ -4,7 +4,7 @@
 
 - **Name:** Joshua Coutinho
 - **Roll Number:** BT25CSE207
-- **Section:** YOUR SECTION
+- **Section:** C
 - **GitHub Username:** zqvu
 
 ## Assignment Description
