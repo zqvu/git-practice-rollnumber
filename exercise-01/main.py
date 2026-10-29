@@ -1,0 +1,11 @@
+def main():
+    try:
+        a = int(input("Enter first number: "))
+        b = int(input("Enter second number: "))
+        print("Sum:", a + b)
+    except ValueError:
+        print("Error: Please enter valid integers.")
+
+
+if __name__ == "__main__":
+    main()
